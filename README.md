@@ -1,5 +1,8 @@
 # colored_hearts
 # Heart Animation in C
+
+![colored_heart](colored_heart.png)
+
 ## Overview
 This repository features a C program that demonstrates advanced console graphics by drawing animated hearts. Each heart is composed of colorful letters.
 
